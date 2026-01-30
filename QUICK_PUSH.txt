@@ -1,0 +1,34 @@
+🚀 QUICK GITHUB PUSH - DO THIS NOW!
+
+═══════════════════════════════════════════════════════════
+
+STEP 1: GET TOKEN (2 minutes)
+═══════════════════════════════════════════════════════════
+
+1. Open this link in your browser:
+   https://github.com/settings/tokens/new?scopes=repo&description=Mushfiqur-OS-Push
+
+2. Click "Generate token" (green button at bottom)
+
+3. COPY THE TOKEN (you won't see it again!)
+
+═══════════════════════════════════════════════════════════
+
+STEP 2: PUSH TO GITHUB (30 seconds)
+═══════════════════════════════════════════════════════════
+
+Run this in WSL terminal:
+
+cd /mnt/c/Users/20mah/.gemini/antigravity/scratch/mushfiqur-os
+git push -u origin main
+
+When prompted:
+  Username: MD-Mushfiqur123
+  Password: [PASTE THE TOKEN YOU JUST COPIED]
+
+═══════════════════════════════════════════════════════════
+
+DONE! Your OS will be live at:
+https://github.com/MD-Mushfiqur123/mushfiqur-os
+
+═══════════════════════════════════════════════════════════
